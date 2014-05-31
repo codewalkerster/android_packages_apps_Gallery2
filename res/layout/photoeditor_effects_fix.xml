@@ -38,6 +38,7 @@
             android:text="@string/redeye"
             style="@style/EffectLabel"/>
     </com.android.gallery3d.photoeditor.actions.RedEyeAction>
+    <!--
     <com.android.gallery3d.photoeditor.actions.FaceliftAction style="@style/Effect">
         <ImageView
             style="@style/EffectIcon"
@@ -56,6 +57,7 @@
             android:text="@string/facetan"
             style="@style/EffectLabel"/>
     </com.android.gallery3d.photoeditor.actions.FaceTanAction>
+    -->
     <com.android.gallery3d.photoeditor.actions.StraightenAction style="@style/Effect"
         android:tag="@string/straighten_tooltip">
         <ImageView
